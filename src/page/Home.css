@@ -1,0 +1,23 @@
+#home{
+    background: url('../Asset/bg-hero.jpg');
+    background-size: cover;
+    max-width: 100%;
+    height: 657px;
+}  
+
+#home h2 {
+    margin-top: 260px;
+    line-height: 40px;
+}
+
+
+
+
+.card1 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 4px solid rgb(215, 75, 75);
+    padding: 10px;
+    
+}
